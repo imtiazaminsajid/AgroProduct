@@ -22,7 +22,7 @@ public class ProductDetails extends AppCompatActivity {
 
         Bundle bundle = getIntent().getExtras();
         if(bundle !=null){
-            
+
 
         }
     }
